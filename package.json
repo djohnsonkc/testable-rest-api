@@ -20,5 +20,9 @@
   "scripts": {
     "start": "SET NODE_ENV=dev && node server.js",
     "test": "mocha --timeout 10000"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/djohnsonkc/testable-rest-api.git"
   }
 }
